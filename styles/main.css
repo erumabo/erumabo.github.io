@@ -1,0 +1,31 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+  font-family:Helvetica, sans-serif;
+}
+
+body{
+  text-align:center;
+}
+
+h1 {
+  color:darkgrey;
+  font-weight: 5rem;
+  margin-top: 120px;
+  margin-bottom: 120px;
+}
+
+p {
+  background:#3734450F;
+  border-right:2px solid black;
+  border-bottom:2px solid black;
+  color:gray;
+  position:relative;
+  font-weight:20px;
+  padding:40px;
+  width:50%;
+  left:50%;
+  /*top:50%;*/
+  transform:translate(-50%,0);
+}
