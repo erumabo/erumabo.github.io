@@ -29,7 +29,10 @@ url: "https://erumabo.github.io" # the base hostname & protocol for your site, e
 github_username: erumabo
 
 # Build settings
-theme: jekyll-theme-leap-day
+theme: minima
+# theme: jekyll-theme-leap-day
+# theme: jekyll-theme-time-machine
+# theme: jekyll-theme-modernist
 plugins:
   - jekyll-feed
 

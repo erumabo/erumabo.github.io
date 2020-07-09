@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Acerca de este blog"
+date:   2020-07-08 22:00:00 -0600
+categories: introduccion 
+---
+
+Este blog va a servir como un espacio donde documentar algunos experimentos de software, proyectos personales, pensamientos y otras cosas.
+
+Puede que nunca lo actualize, nunca he sido bueno para mantener un proyecto por largo tiempo, debería de organizarme...
