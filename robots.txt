@@ -1,0 +1,4 @@
+Sitemap: https://erumabo.github.io/sitemapindex.xml
+
+User-Agent: *
+Host: erumabo.github.io
