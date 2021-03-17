@@ -6,31 +6,7 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>https://erumabo.github.io/categories/cat_general.xml</loc>
-  <lastmod>2021-03-16T03:40:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://erumabo.github.io/en/categories/cat_general.xml</loc>
-  <lastmod>2021-03-16T03:40:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://erumabo.github.io/en/galleries/rss.xml</loc>
-  <lastmod>2021-03-16T03:40:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://erumabo.github.io/en/rss.xml</loc>
-  <lastmod>2021-03-16T03:40:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://erumabo.github.io/galleries/rss.xml</loc>
-  <lastmod>2021-03-16T03:40:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://erumabo.github.io/rss.xml</loc>
-  <lastmod>2021-03-16T03:40:00Z</lastmod>
- </sitemap>
- <sitemap>
   <loc>https://erumabo.github.io/sitemap.xml</loc>
-  <lastmod>2021-03-16T03:53:00Z</lastmod>
+  <lastmod>2021-03-17T05:51:00Z</lastmod>
  </sitemap>
 </sitemapindex>

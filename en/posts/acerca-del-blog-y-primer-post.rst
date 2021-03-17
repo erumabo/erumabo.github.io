@@ -1,4 +1,4 @@
-.. title: Acerca del blog y primer post
+.. title: About the blog and first post 
 .. slug: acerca-del-blog-y-primer-post
 .. date: 2021-03-15 21:28:15 UTC-06:00
 .. tags: 
@@ -7,6 +7,5 @@
 .. description: 
 .. type: text
 
-Bienvenido al blog personal de Daniel Martínez, también conocido como Mabo, en este blog voy a documentar algunos experimentos de software, 
-realizar pruebas varias con el sitio, pruebas de HTML/CSS de accesibilidad y *responsive*, o simplemente dejar por escrito cosas que encuentre
-interesante.
+Welcome to Daniel Martinez's, aka Mabo, personal blog, here I'll document some software experiments, site style tests, and general HTML/CSS accesibility tests,
+also I may add some other suff that I find interesting.

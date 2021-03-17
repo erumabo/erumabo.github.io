@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://erumabo.github.io/</loc>
-  <lastmod>2021-03-16T03:40:00Z</lastmod>
+  <lastmod>2021-03-16T03:53:00Z</lastmod>
  </url>
  <url>
   <loc>https://erumabo.github.io/2021/</loc>
@@ -19,7 +19,7 @@
  </url>
  <url>
   <loc>https://erumabo.github.io/categories/</loc>
-  <lastmod>2021-03-16T03:40:00Z</lastmod>
+  <lastmod>2021-03-16T03:53:00Z</lastmod>
  </url>
  <url>
   <loc>https://erumabo.github.io/categories/cat_general.html</loc>
@@ -27,7 +27,7 @@
  </url>
  <url>
   <loc>https://erumabo.github.io/en/</loc>
-  <lastmod>2021-03-16T03:40:00Z</lastmod>
+  <lastmod>2021-03-16T03:53:00Z</lastmod>
  </url>
  <url>
   <loc>https://erumabo.github.io/en/2021/</loc>
@@ -39,24 +39,24 @@
  </url>
  <url>
   <loc>https://erumabo.github.io/en/categories/</loc>
-  <lastmod>2021-03-16T03:40:00Z</lastmod>
+  <lastmod>2021-03-16T03:53:00Z</lastmod>
  </url>
  <url>
   <loc>https://erumabo.github.io/en/categories/cat_general.html</loc>
-  <lastmod>2021-03-16T03:53:00Z</lastmod>
+  <lastmod>2021-03-17T05:51:00Z</lastmod>
  </url>
  <url>
   <loc>https://erumabo.github.io/en/galleries/</loc>
-  <lastmod>2021-03-16T03:18:00Z</lastmod>
+  <lastmod>2021-03-16T03:53:00Z</lastmod>
  </url>
  <url>
   <loc>https://erumabo.github.io/en/posts/acerca-del-blog-y-primer-post.html</loc>
-  <lastmod>2021-03-16T03:53:00Z</lastmod>
+  <lastmod>2021-03-17T05:51:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="es" href="https://erumabo.github.io/posts/acerca-del-blog-y-primer-post.html" />
  </url>
  <url>
   <loc>https://erumabo.github.io/galleries/</loc>
-  <lastmod>2021-03-16T03:18:00Z</lastmod>
+  <lastmod>2021-03-16T03:53:00Z</lastmod>
  </url>
  <url>
   <loc>https://erumabo.github.io/listings/</loc>
@@ -64,6 +64,7 @@
  </url>
  <url>
   <loc>https://erumabo.github.io/posts/acerca-del-blog-y-primer-post.html</loc>
-  <lastmod>2021-03-16T03:53:00Z</lastmod>
+  <lastmod>2021-03-17T05:51:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://erumabo.github.io/en/posts/acerca-del-blog-y-primer-post.html" />
  </url>
 </urlset>
