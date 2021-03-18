@@ -15,15 +15,31 @@
  </url>
  <url>
   <loc>https://erumabo.github.io/archive.html</loc>
-  <lastmod>2021-03-16T03:53:00Z</lastmod>
+  <lastmod>2021-03-18T05:54:00Z</lastmod>
  </url>
  <url>
   <loc>https://erumabo.github.io/categories/</loc>
-  <lastmod>2021-03-16T03:53:00Z</lastmod>
+  <lastmod>2021-03-18T05:54:00Z</lastmod>
  </url>
  <url>
   <loc>https://erumabo.github.io/categories/cat_general.html</loc>
-  <lastmod>2021-03-16T03:53:00Z</lastmod>
+  <lastmod>2021-03-18T03:38:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://erumabo.github.io/categories/cat_semanales.html</loc>
+  <lastmod>2021-03-18T05:54:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://erumabo.github.io/categories/general.html</loc>
+  <lastmod>2021-03-18T04:51:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://erumabo.github.io/categories/semanales.html</loc>
+  <lastmod>2021-03-18T05:54:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://erumabo.github.io/categories/web.html</loc>
+  <lastmod>2021-03-18T05:54:00Z</lastmod>
  </url>
  <url>
   <loc>https://erumabo.github.io/en/</loc>
@@ -35,36 +51,58 @@
  </url>
  <url>
   <loc>https://erumabo.github.io/en/archive.html</loc>
-  <lastmod>2021-03-16T03:53:00Z</lastmod>
+  <lastmod>2021-03-18T05:54:00Z</lastmod>
  </url>
  <url>
   <loc>https://erumabo.github.io/en/categories/</loc>
-  <lastmod>2021-03-16T03:53:00Z</lastmod>
+  <lastmod>2021-03-18T05:54:00Z</lastmod>
  </url>
  <url>
   <loc>https://erumabo.github.io/en/categories/cat_general.html</loc>
-  <lastmod>2021-03-17T05:51:00Z</lastmod>
+  <lastmod>2021-03-18T03:38:00Z</lastmod>
  </url>
  <url>
-  <loc>https://erumabo.github.io/en/galleries/</loc>
-  <lastmod>2021-03-16T03:53:00Z</lastmod>
+  <loc>https://erumabo.github.io/en/categories/cat_semanales.html</loc>
+  <lastmod>2021-03-18T05:54:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://erumabo.github.io/en/categories/general.html</loc>
+  <lastmod>2021-03-18T04:51:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://erumabo.github.io/en/categories/semanales.html</loc>
+  <lastmod>2021-03-18T05:54:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://erumabo.github.io/en/categories/web.html</loc>
+  <lastmod>2021-03-18T05:54:00Z</lastmod>
  </url>
  <url>
   <loc>https://erumabo.github.io/en/posts/acerca-del-blog-y-primer-post.html</loc>
-  <lastmod>2021-03-17T05:51:00Z</lastmod>
+  <lastmod>2021-03-18T03:38:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="es" href="https://erumabo.github.io/posts/acerca-del-blog-y-primer-post.html" />
  </url>
  <url>
-  <loc>https://erumabo.github.io/galleries/</loc>
-  <lastmod>2021-03-16T03:53:00Z</lastmod>
+  <loc>https://erumabo.github.io/en/posts/primer-proyecto.html</loc>
+  <lastmod>2021-03-18T05:54:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="es" href="https://erumabo.github.io/posts/primer-proyecto.html" />
  </url>
  <url>
-  <loc>https://erumabo.github.io/listings/</loc>
-  <lastmod>2021-03-16T03:18:00Z</lastmod>
+  <loc>https://erumabo.github.io/en/posts/proyectos-semanales.html</loc>
+  <lastmod>2021-03-18T05:54:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="es" href="https://erumabo.github.io/posts/proyectos-semanales.html" />
  </url>
  <url>
   <loc>https://erumabo.github.io/posts/acerca-del-blog-y-primer-post.html</loc>
-  <lastmod>2021-03-17T05:51:00Z</lastmod>
+  <lastmod>2021-03-18T03:38:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://erumabo.github.io/en/posts/acerca-del-blog-y-primer-post.html" />
+ </url>
+ <url>
+  <loc>https://erumabo.github.io/posts/primer-proyecto.html</loc>
+  <lastmod>2021-03-18T05:54:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://erumabo.github.io/posts/proyectos-semanales.html</loc>
+  <lastmod>2021-03-18T05:54:00Z</lastmod>
  </url>
 </urlset>
