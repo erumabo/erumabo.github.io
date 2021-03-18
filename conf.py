@@ -141,13 +141,13 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/archive.html", "Archivo"),
         ("/categories/", "Etiquetas"),
-        ("/rss.xml", "Canal RSS"),
+#        ("/rss.xml", "Canal RSS"),
     ),
 
     "en": (
         ("/en/archive.html", "Archive"),
         ("/en/categories/", "Tags"),
-        ("/en/rss.xml", "RSS feed"),
+#        ("/en/rss.xml", "RSS feed"),
     ),
 }
 
@@ -159,7 +159,7 @@ NAVIGATION_ALT_LINKS = {
 }
 
 # Name of the theme to use.
-THEME = "bootblog4"
+THEME = "mabo"
 
 # A theme color. In default themes, it might be displayed by some browsers as
 # the browser UI color (eg. Chrome on Android). Other themes might also use it
@@ -271,7 +271,7 @@ TIMEZONE = "America/Costa_Rica"
 # Date format used to display post dates. (translatable)
 # Used by babel.dates, CLDR style: http://cldr.unicode.org/translation/date-time-1/date-time
 # You can also use 'full', 'long', 'medium', or 'short'
-# DATE_FORMAT = 'yyyy-MM-dd HH:mm'
+DATE_FORMAT = 'yyyy-MM-dd'
 
 # Date format used to display post dates, if local dates are used. (translatable)
 # Used by Luxon: https://moment.github.io/luxon/docs/manual/formatting
@@ -1343,7 +1343,7 @@ GENERATE_RSS = False
 # Bundle JS and CSS into single files to make site loading faster in a HTTP/1.1
 # environment but is not recommended for HTTP/2.0 when caching is used.
 # Defaults to True.
-# USE_BUNDLES = True
+USE_BUNDLES = False
 
 # Plugins you don't want to use. Be careful :-)
 # DISABLED_PLUGINS = ["render_galleries"]
